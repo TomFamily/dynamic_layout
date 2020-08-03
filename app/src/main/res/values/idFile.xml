@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ykContainer" type="id"/>
+    <item name="ykImageView" type="id"/>
+    <item name="ykTextView1" type="id"/>
+    <item name="ykTextView2" type="id"/>
+</resources>
